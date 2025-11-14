@@ -1,0 +1,16 @@
+TxnID   Amount Type
+TXN001  5000   Credit
+TXN002  200    Debit
+TXN003  3500   Credit
+TXN004  250    Debit
+TXN005  10000  Credit
+TXN006  800    Debit
+TXN007  2000   Credit
+TXN008  700    Debit
+TXN009  5600   Credit
+TXN010  450    Debit
+TXN011  9800   Credit
+TXN012  1200   Debit
+TXN013  4000   Credit
+TXN014  300    Debit
+TXN014  11220    Credit
